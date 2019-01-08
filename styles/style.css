@@ -117,7 +117,7 @@ body {
   #home .activenav {
     box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.1); }
 
-@media only screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .bg-inverse {
     background: #191c1e !important; }
 
@@ -157,12 +157,12 @@ body {
   text-align: right; }
 #features .content-text .right .txt {
   text-align: left; }
-@media only screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   #features .left .txt {
     text-align: center !important; }
   #features .right .txt {
     text-align: center !important; } }
-@media only screen and (min-width: 767px) and (max-width: 992px) {
+@media screen and (min-width: 767px) and (max-width: 992px) {
   #features .right .txt {
     text-align: right !important; } }
 

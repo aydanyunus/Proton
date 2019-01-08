@@ -155,7 +155,7 @@ body {
     box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.1);
   }
 }
-@media only screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .bg-inverse {
     background: #191c1e !important;
   }
@@ -225,7 +225,7 @@ body {
       }
     }
   }
-  @media only screen and (max-width: 767px) {
+  @media screen and (max-width: 767px) {
     .left {
       .txt {
         text-align: center !important;
@@ -237,7 +237,7 @@ body {
       }
     }
   }
-  @media only screen and (min-width: 767px) and (max-width: 992px) {
+  @media screen and (min-width: 767px) and (max-width: 992px) {
     .right {
       .txt {
         text-align: right !important;
